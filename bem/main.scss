@@ -1,0 +1,15 @@
+.form{
+    margin: 40px;
+    &__control{
+        font-family: sans-serif;
+        margin-bottom: 16px;
+    }
+
+    &__submit{
+        cursor: pointer;
+
+        &--sending{
+            cursor: wait;
+        }
+    }
+}

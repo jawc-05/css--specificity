@@ -1,0 +1,23 @@
+{
+  "name": "css---especifidade",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para estudar e praticar a metodologia **SMACSS** (Scalable and Modular Architecture for CSS). O objetivo é compreender como organizar e estruturar estilos CSS de forma escalável e modular.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawc-05/smacss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawc-05/smacss/issues"
+  },
+  "homepage": "https://github.com/jawc-05/smacss#readme",
+  "devDependencies": {
+    "sass": "^1.87.0"
+  }
+}
